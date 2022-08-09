@@ -1,0 +1,10 @@
+{
+  "head": {
+    "title": "¡Hola! Soy Bruno"
+  },
+  "about": {
+    "greeting": "¡Hola!",
+    "paragraph1": "Mi nombre es Bruno Verano y mi passión es crear cosas para la web. Empecé con el desarrollo web en 2019, intentando automatizar algunas tareas repetitivas y aburridas y fue ahi cuando me enamoré del código.",
+    "paragraph2": "En estos años he implementado soluciones de automatización en grandes corporaciones tales como DHL o Belcorp; así como también he ayudado a diversas startups a diseñar, dearrollar y desplegar sus MVP's desde cero."
+  }
+}
