@@ -13,11 +13,12 @@ cd dist
 # echo 'www.example.com' > CNAME
 
 git init
-git checkout -b main
+git checkout -b gh-pages
+
 git add -A
 git commit -m 'deploy'
 
 # if you are deploying to https://bvsaur.github.io
-# git push -f git@github.com:bvsaur/bvsaur.github.io.git main
+git push -f git@github.com:bvsaur/bvsaur.github.io.git gh-pages
 
 cd -
