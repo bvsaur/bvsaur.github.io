@@ -3,8 +3,12 @@
     "title": "Hi! I'm Bruno"
   },
   "about": {
+    "title": "About me",
     "greeting": "Hi!",
     "paragraph1": "My name is Bruno Verano and my passion is to created things for the web. I started in web development back in 2019 trying to automate some boring and repetitive tasks and it was then when fell in love with code.",
     "paragraph2": "Within these years I've implemented automation solutions in large corporations such as Belcorp or DHL and I've also helped many startups to desing, develop and deploy their MVP's from the ground up."
+  },
+  "projects": {
+    "title": "Projects"
   }
 }
