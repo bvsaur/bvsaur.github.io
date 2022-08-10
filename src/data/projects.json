@@ -1,0 +1,75 @@
+[
+  {
+    "title": "quenuncafalte.pe",
+    "mainImg": "https://res.cloudinary.com/dnvdrksxu/image/upload/v1660148911/portfolio/qnfMain_g9qqsi.png",
+    "secondaryImg": "https://res.cloudinary.com/dnvdrksxu/image/upload/v1660153992/portfolio/qnfSecondary_ww56nf.png",
+    "techStack": [
+      {
+        "name": "Next.js",
+        "iconName": "SiNextdotjs"
+      },
+      {
+        "name": "Typescript",
+        "iconName": "SiTypescript"
+      },
+      {
+        "name": "Payment",
+        "iconName": "MdPayment"
+      },
+      {
+        "name": "Mailchimp",
+        "iconName": "SiMailchimp"
+      }
+    ]
+  },
+  {
+    "title": "mini-url.xyz",
+    "mainImg": "https://res.cloudinary.com/dnvdrksxu/image/upload/v1660149149/portfolio/miniurlMain_cws5ns.png",
+    "secondaryImg": "https://res.cloudinary.com/dnvdrksxu/image/upload/v1660153949/portfolio/miniurlSecondary_qf8c2h.png",
+    "techStack": [
+      {
+        "name": "Next.js",
+        "iconName": "SiNextdotjs"
+      },
+      {
+        "name": "Typescript",
+        "iconName": "SiTypescript"
+      },
+      {
+        "name": "Golang",
+        "iconName": "SiGoland"
+      },
+      {
+        "name": "Postgres",
+        "iconName": "SiPostgresql"
+      },
+      {
+        "name": "Docker",
+        "iconName": "SiDocker"
+      }
+    ]
+  },
+  {
+    "title": "decirteque.com",
+    "mainImg": "https://res.cloudinary.com/dnvdrksxu/image/upload/v1660154104/portfolio/decirtequeMain_ytfgaf.png",
+    "secondaryImg": "https://res.cloudinary.com/dnvdrksxu/image/upload/v1660154106/portfolio/decirtequeSecondary_e2cdf9.png",
+    "techStack": [
+      {
+        "name": "React.js",
+        "iconName": "SiReact"
+      },
+      {
+        "name": "Typescript",
+        "iconName": "SiTypescript"
+      },
+      {
+        "name": "Node.js",
+        "iconName": "SiNodedotjs"
+      },
+      {
+        "name": "MongoDB",
+        "iconName": "SiMongodb"
+      }
+    ]
+  }
+]

@@ -9,6 +9,9 @@
     "paragraph2": "En estos años he implementado soluciones de automatización en grandes corporaciones tales como DHL o Belcorp; así como también he ayudado a diversas startups a diseñar, dearrollar y desplegar sus MVP's desde cero."
   },
   "projects": {
-    "title": "Proyectos"
+    "title": "Proyectos",
+    "description.quenuncafalte.pe": "Que Nunca Falte es una aplicación web e-commerce con un caso de negocio bastante especial: ofrece a sus usuarios comprar productos por única vez y también suscribirse a ellos. Todo esto en un único flujo de venta. Usa SSR para optimizar la carga de sus componentes y está alimentado por un CMS basado en Sanity.",
+    "description.mini-url.xyz": "MiniURL es un acortador de URL's cuya intención es brindar una experiencia todo en uno a una utilidad bastante común y aburrida. Facilita el inicio de sesión utilizando Google y Discord y además, al generar los URL acortados, también genera un código QR para hacerlo aún más accesible.",
+    "description.decirteque.com": "Decirte Que es un programador de mensajes. Te permite configurar el look & feel del mensaje que vas a enviar y si deseas o no que ese mensaje sea anónimo. Permite login con redes sociales, como Facebook y Google."
   }
 }

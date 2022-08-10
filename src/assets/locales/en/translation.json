@@ -9,6 +9,9 @@
     "paragraph2": "Within these years I've implemented automation solutions in large corporations such as Belcorp or DHL and I've also helped many startups to desing, develop and deploy their MVP's from the ground up."
   },
   "projects": {
-    "title": "Projects"
+    "title": "Projects",
+    "description.quenuncafalte.pe": "Que Nunca Falte is an e-commerce web application with a very particular business case: it offers its users to buy products the regular way (one-payment) but also subscribe to them. All of this in te same shopping cart. It uses SSR to optimize the loading times and its powered by a Sanity-based CMS.",
+    "description.mini-url.xyz": "MiniURL is a URL shortener whose intention is to provide an all-in-one experience to a fairly common and boring utility. It makes it easy to log in using Google and Discord and on top of that it generates a QR code to make shortened URL even more accessible.",
+    "description.decirteque.com": "Decirte Que that he is a message scheduler. It allows you to configure the look & feel of the message you are shceduling and whether or not you want that message to be anonymous. Allows login with social networks, such as Facebook and Google."
   }
 }

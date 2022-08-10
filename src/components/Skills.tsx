@@ -46,7 +46,10 @@ const Skills = () => {
       </h2>
       <div className="flex flex-wrap w-2/3 justify-center mx-auto xl:justify-between">
         {skills.map(({ href, Component }) => (
-          <div className="bg-ligthGray p-4 text-5xl md:text-7xl md:m-4 rounded-lg hover:animate-pulse m-2 lg:m-2">
+          <div
+            className="bg-ligthGray p-4 text-5xl md:text-7xl md:m-4 rounded-lg hover:animate-pulse m-2 lg:m-2"
+            key={href}
+          >
             <a href={href} rel="nonreferrer noopener" target="blank">
               {Component}
             </a>

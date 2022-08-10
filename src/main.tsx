@@ -5,9 +5,12 @@ import './index.css'
 
 // i18n
 import './i18n'
+import ModalProvider from './context/ModalContext'
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   <React.StrictMode>
-    <App />
+    <ModalProvider>
+      <App />
+    </ModalProvider>
   </React.StrictMode>
 )
